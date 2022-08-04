@@ -59,3 +59,4 @@ class BlogController extends Controller
     }
     
 }
+
